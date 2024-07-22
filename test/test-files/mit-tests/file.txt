@@ -1,0 +1,2 @@
+ERROR: File 'file.txt' not found.
+_you're_an_idiot

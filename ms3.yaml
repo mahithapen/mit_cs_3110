@@ -1,0 +1,31 @@
+group:
+  - name: Mahitha Penmetsa
+    netid: msp259
+  - name: Sia Chitnis
+    netid: sc2665
+  - name: Michael Ngo
+    netid: mn542
+  - name: Nidhi Mylavarapu
+    netid: nm549
+    
+pm:
+  name: Ryan Mistretta
+  netid: rhm255
+
+publish: true
+
+title: "Mit Version Control"
+
+git-repo: "https://github.coecis.cornell.edu/nm549/cs3110_final_project"
+
+demo-video-url: "https://youtu.be/kJIQIVQicHA"
+
+desc: >
+  Our project aims to recreate Git Version Control. Users on our application will be
+  able to work on files simultaneously. We will provide users with the ability to create
+  and maintain repositories stored on local computers. Users will be able to clone and pull
+  repos, create branches, edit files, commit, add, push, merge, and deal with
+  merge conflicts with reverting edit history. 
+
+  Additonally, we are looking into store projects in an actual database, allowing for
+  multi-user collaboration with a GUI that users can view repo history. 
